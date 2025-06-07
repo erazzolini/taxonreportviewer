@@ -1,0 +1,45 @@
+Features
+
+TRV empowers researchers to derive meaningful insights from complex metagenomic datasets with ease, without the need for advanced command-line scripting skills. Key features include:
+
+**Robust Parsing:
+
+Accurately reconstructs taxonomic hierarchies even from inconsistently formatted Kraken2 reports , by analyzing line indentation and taxonomic rank order.
+
+**Dynamic Search & Filtering:
+
+Allows users to search for any taxon name and display its entire taxonomic sub-tree, enabling isolation and inspection of specific lineages. Includes a filter to show only species-level results.
+
+**Interactive Data Exploration:
+
+Data is displayed in a Treeview that preserves original taxonomic organization and uses color-coding for main ranks, enhancing readability and immediate visual interpretation.
+
+Selection for Comparative Analysis:
+
+Users can select multiple taxa of interest directly from the interface via checkboxes for subsequent comparative analyses across different samples. An option to select or deselect all visible taxa at once streamlines the workflow.
+
+Extraction of Reports and Abundance Matrices:
+
+Allows exportation of displayed data into tab-separated values (TSV) format. Generates single-sample or comparative abundance matrices of target taxa across multiple loaded samples. Output matrices are formatted to be directly compatible with other statistical analysis tools, such as R or STAMP.
+
+Integrated Data Visualization:
+
+Comparative Bar Plots:
+
+Generates a grouped bar plot comparing the abundance (read count) of multiple selected taxa across the different loaded samples.
+
+Abundance Heatmaps:
+
+Visualizes abundance distributions with options for single-sample (showing selected/most abundant taxa) , comparative across samples (based on user-selected reference taxa) , and "simplified" interactive versions with tooltips on mouseover.
+
+NCBI Integration:
+
+Each line in the results table is a hyperlink that, when clicked, opens the corresponding page of the TaxID in the NCBI Taxonomy Browser , allowing for rapid verification and retrieval of additional information about the taxon.
+
+Multi-sample Compatibility:
+
+Supports parallel analysis of multiple Kraken2 reports in separate tabs , facilitating cross-sample comparisons and pattern identification.
+
+Performance:
+
+The GUI is responsive even with large report files (e.g., >100,000 lines) , with searches completed in under one second on typical consumer-grade hardware (Intel Core i5, 8 GB RAM).
