@@ -1,5 +1,4 @@
-TaxonReportViewer (TRV)
-([Replace docs/icon.png with the path to your chosen icon image in your repository](https://github.com/erazzolini/taxonreportviewer/blob/main/trv.png))
+[TaxonReportViewer (TRV)] (https://github.com/erazzolini/taxonreportviewer/blob/main/trv.png)
 
 Table of Contents
 About
