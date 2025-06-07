@@ -1,4 +1,4 @@
-[TaxonReportViewer (TRV)] (https://github.com/erazzolini/taxonreportviewer/blob/main/trv.png)
+[TaxonReportViewer (TRV)](https://github.com/erazzolini/taxonreportviewer/blob/main/trv.png)
 
 Table of Contents
 About
