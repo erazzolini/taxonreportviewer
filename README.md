@@ -2,13 +2,20 @@
 
 [About](https://github.com/erazzolini/taxonreportviewer/blob/main/About)
 
-Features
+[Features](https://github.com/erazzolini/taxonreportviewer/blob/main/Features)
+
 Downloads
+
 Usage
+
 Screenshots (To be added)
+
 Contributing
+
 License
+
 Authors
+
 Citation
 
 
