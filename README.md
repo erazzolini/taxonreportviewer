@@ -1,7 +1,6 @@
 [TaxonReportViewer (TRV)](https://github.com/erazzolini/taxonreportviewer/blob/main/trv.png)
 
-Table of Contents
-About
+[About](https://github.com/erazzolini/taxonreportviewer/blob/main/About)
 Features
 Downloads
 Usage
