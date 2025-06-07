@@ -118,6 +118,7 @@ Contributing
 [Authors](https://github.com/erazzolini/taxonreportviewer/blob/main/Authors)
 
   Emanuel Razzolini 
+  
   Claudia Regina de Souza 
 
 [Citation](https://github.com/erazzolini/taxonreportviewer/blob/main/Citation)
