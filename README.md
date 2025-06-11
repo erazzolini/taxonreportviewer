@@ -125,5 +125,5 @@ Contributing
 
   If you use TaxonReportViewer in your research, please consider citing our work:
 
-  Razzolini, E. & Souza, C.R.. TaxonReportViewer: Parsing and Visualizing Taxonomic Hierarchies in Metagenomic Datasets. bioRxiv 2025.06.07.658440; doi: https://doi.org/10.1101/2025.06.07.658440
+  Razzolini, E. & Souza, C.R.. (2025) TaxonReportViewer: Parsing and Visualizing Taxonomic Hierarchies in Metagenomic Datasets. bioRxiv 2025.06.07.658440; doi: https://doi.org/10.1101/2025.06.07.658440
 
